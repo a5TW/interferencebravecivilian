@@ -50,4 +50,4 @@ you shouldn't need anything else lmao
 ## Extras
 - [~~Iframe embedder (broken)~~](https://pdsb.online/iframe)
 - [Gmail hacker](https://pdsb.online/)
-- [Rammerhead Browser](https://browser.rammerhead.org/) - Some antiviruses may say that it is insecure, but that is only because it is unregistered. It is still completely safe. You can check [this](view-source:https://browser.rammerhead.org/) for proof.
+- [Rammerhead Browser](https://browser.rammerhead.org/)
