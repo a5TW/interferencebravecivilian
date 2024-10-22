@@ -1,11 +1,14 @@
+<!-- don't mess it up -->
+
 # Resources
 
 ## Table of Contents
 1. [Run by @legendaryfishwastaken](#run-by-legendaryfishwastaken)
 2. [Google Services](#google-services)
 3. [Games](#games)
-4. [Piracy](#piracy)
-5. [Extras](#extras)
+4. [Quiz Games](#quiz-games)
+5. [Piracy](#piracy)
+6. [Extras](#extras)
 
 ## Run by @legendaryfishwastaken
 - [Free Movies - lfdev.site](https://movies.lfdev.site/)
@@ -41,6 +44,11 @@
 - [Nitrome](https://www.nitrome.com/)
 - [GamePix](https://www.gamepix.com/)
 - [Pokémon Showdown](https://pokemonshowdown.com/)
+
+## Quiz Games
+- [Kahoot](https://kahoot.it/)
+- [Blooket](https://play.blooket.com/)
+- [Gimkit](https://gimkit.com/join)
 
 ## Piracy
 - [FMHY](https://fmhy.net/)
