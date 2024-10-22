@@ -10,7 +10,7 @@
 5. [Piracy](#piracy)
 6. [Extras](#extras)
 
-## Run by @legendaryfishwastaken
+## Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)
 - [Free Movies - lfdev.site](https://movies.lfdev.site/)
 - [Free Books - pdsb.online](https://pdsb.online/books/)
 - [Unblocked Games - lfdev.site](https://games.lfdev.site/)
