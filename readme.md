@@ -2,6 +2,9 @@
 
 # Resources
 
+## THE MOST IMPORTANT LINK
+The [redirector](https://pdsb.online/redirector) lets you visit any site by just typing in the url. If you want to visit a site not listed, definitely use this.
+
 ## Table of Contents
 1. [Run by @legendaryfishwastaken](#run-by-legendaryfishwastaken)
 2. [Google Services](#google-services)
