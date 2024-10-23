@@ -62,3 +62,4 @@ you shouldn't need anything else lmao
 - [~~Iframe embedder (broken)~~](https://pdsb.online/iframe)
 - [Gmail hacker](https://pdsb.online/)
 - [Rammerhead Browser](https://browser.rammerhead.org/)
+- [ext-remover](https://ext-remover.net/)
