@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/a5tw/interferencebravecivilian">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="hyperlink-icon.png" alt="Logo" width="96" height="96">
   </a>
 
   <h3 align="center">Resources</h3>
