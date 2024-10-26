@@ -77,4 +77,5 @@ you shouldn't need anything else lmao
 - [~~Iframe embedder (broken)~~](https://pdsb.online/iframe)
 - [Gmail hacker](https://pdsb.online/)
 - [Rammerhead Browser](https://browser.rammerhead.org/)
+- [Rammerhead Browser Alternative](https://flipgrid.cf/)
 - [ext-remover](https://ext-remover.net/)
