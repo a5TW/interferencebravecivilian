@@ -79,3 +79,4 @@ you shouldn't need anything else lmao
 - [Rammerhead Browser](https://browser.rammerhead.org/)
 - [Rammerhead Browser Alternative](https://flipgrid.cf/)
 - [ext-remover](https://ext-remover.net/)
+- [Javascript Desktop Environment](http://cryto.net/projects/jsde/demo/#)
