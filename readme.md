@@ -80,5 +80,5 @@ you shouldn't need anything else lmao
 - [Rammerhead Browser Alternative](https://flipgrid.cf/)
 - [ext-remover](https://ext-remover.net/)
 - [Javascript Desktop Environment](http://cryto.net/projects/jsde/demo/#)
-  - [Snake in HTML](snake.html)
+  - [Snake in HTML](https://github.com/a5TW/snakehtml/blob/main/snake.html)
 - [Python Online Compiler](https://www.programiz.com/python-programming/online-compiler/)
