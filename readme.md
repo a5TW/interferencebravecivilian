@@ -80,3 +80,4 @@ you shouldn't need anything else lmao
 - [Rammerhead Browser Alternative](https://flipgrid.cf/)
 - [ext-remover](https://ext-remover.net/)
 - [Javascript Desktop Environment](http://cryto.net/projects/jsde/demo/#)
+- [Python Online Compiler](https://www.programiz.com/python-programming/online-compiler/)
