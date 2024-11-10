@@ -76,9 +76,5 @@ you shouldn't need anything else lmao
 ## Extras
 - [~~Iframe embedder (broken)~~](https://pdsb.online/iframe)
 - [Gmail hacker](https://pdsb.online/)
-- [Rammerhead Browser](https://browser.rammerhead.org/)
-- [Rammerhead Browser Alternative](https://flipgrid.cf/)
+- [Webview Browser](https://science-homework.mrlewburger.com/)
 - [ext-remover](https://ext-remover.net/)
-- [Javascript Desktop Environment](http://cryto.net/projects/jsde/demo/#)
-  - [Snake in HTML](https://github.com/a5TW/snakehtml/blob/main/snake.html)
-- [Python Online Compiler](https://www.programiz.com/python-programming/online-compiler/)
