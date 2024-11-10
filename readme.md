@@ -47,6 +47,7 @@ The [redirector](https://pdsb.online/redirector) lets you visit any site by just
 - ⭐[YouTube](https://www.youtube.com/)
 - ⭐[Gmail](https://mail.google.com/)
 - ⭐[Google Drive](https://drive.google.com/)
+- ⭐[Google Classroom](https://classroom.google.com/)
 - [Google Docs](https://docs.google.com/)
 - [Google Sheets](https://sheets.google.com/)
 - [Google Slides](https://slides.google.com/)
