@@ -20,6 +20,11 @@
 ## THE MOST IMPORTANT LINK
 The [redirector](https://pdsb.online/redirector) lets you visit any site by just typing in the url. If you want to visit a site not listed, definitely use this.
 
+## Glossary
+🐐 = The greatest
+
+⭐ = Really good
+
 ## Table of Contents
 1. [Run by @legendaryfishwastaken](#run-by-legendaryfishwastaken)
 2. [Google Services](#google-services)
@@ -29,8 +34,8 @@ The [redirector](https://pdsb.online/redirector) lets you visit any site by just
 6. [Extras](#extras)
 
 ## Run by [@legendaryfishwastaken](https://github.com/legendaryfishwastaken)
-- [Free Movies - lfdev.site](https://movies.lfdev.site/)
-- [Free Books - pdsb.online](https://pdsb.online/books/)
+- 🐐[Free Movies - lfdev.site](https://nova.lfdev.site/), [2](https://movies.lfdev.site/)
+- ⭐[Free Books - pdsb.online](https://pdsb.online/books/)
 - [Unblocked Games - lfdev.site](https://games.lfdev.site/)
 - [Site Unblocker - pdsb.online](https://pdsb.online/proxy)
 - [Minecraft 1.5 (Eaglercraft) - pdsb.online](https://pdsb.online/minecraft)
@@ -38,10 +43,11 @@ The [redirector](https://pdsb.online/redirector) lets you visit any site by just
 - [Celeste in Your Browser - pdsb.online](https://pdsb.online/celeste)
 
 ## Google Services
-- [Google](https://www.google.com/)
-- [YouTube](https://www.youtube.com/)
-- [Gmail](https://mail.google.com/)
-- [Google Drive](https://drive.google.com/)
+- 🐐[Google](https://www.google.com/)
+- ⭐[YouTube](https://www.youtube.com/)
+- ⭐[Gmail](https://mail.google.com/)
+- ⭐[Google Drive](https://drive.google.com/)
+- ⭐[Google Classroom](https://classroom.google.com/)
 - [Google Docs](https://docs.google.com/)
 - [Google Sheets](https://sheets.google.com/)
 - [Google Slides](https://slides.google.com/)
@@ -50,13 +56,15 @@ The [redirector](https://pdsb.online/redirector) lets you visit any site by just
 - [Google Play](https://play.google.com/)
 
 ## Games
-- [Kongregate](https://www.kongregate.com/)
-- [Newgrounds](https://www.newgrounds.com/)
-- [Armor Games](https://www.armorgames.com/)
+- 🐐[Itch.io](https://itch.io/)
+- ⭐[Kongregate](https://www.kongregate.com/)
+- ⭐[Newgrounds](https://www.newgrounds.com/)
+- ⭐[Armor Games](https://www.armorgames.com/)
+- ⭐[TETR.IO](https://tetr.io/)
+- ⭐[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/), [2](https://orteil.dashnet.org/experiments/cookie/)
 - [Miniclip](https://www.miniclip.com/)
 - [Pogo](https://www.pogo.com/)
 - [Addicting Games](https://www.addictinggames.com/)
-- [Itch.io](https://itch.io/)
 - [Crazy Games](https://www.crazygames.com/)
 - [Y8](https://www.y8.com/)
 - [Nitrome](https://www.nitrome.com/)
@@ -64,17 +72,18 @@ The [redirector](https://pdsb.online/redirector) lets you visit any site by just
 - [Pokémon Showdown](https://pokemonshowdown.com/)
 
 ## Quiz Games
-- [Kahoot](https://kahoot.it/)
-- [Blooket](https://play.blooket.com/)
-- [Gimkit](https://gimkit.com/join)
+- 🐐[Quizit (cheats)](https://quizit.online/)
+- ⭐[Kahoot](https://kahoot.it/)
+- ⭐[Blooket](https://play.blooket.com/)
+- ⭐[Gimkit](https://gimkit.com/join)
 
 ## Piracy
-- [FMHY](https://fmhy.net/)
+- 🐐[FMHY](https://fmhy.net/)
 
 you shouldn't need anything else lmao
 
 ## Extras
+- 🐐[Webview Browser](https://science-homework.mrlewburger.com/)
+- ⭐[ext-remover](https://ext-remover.net/)
 - [~~Iframe embedder (broken)~~](https://pdsb.online/iframe)
 - [Gmail hacker](https://pdsb.online/)
-- [Webview Browser](https://science-homework.mrlewburger.com/)
-- [ext-remover](https://ext-remover.net/)
