@@ -1,5 +1,10 @@
 <!-- don't mess it up -->
 
+body {
+  background-color: black;
+  color: white;
+}
+
   <h3 align="center">Resources</h3>
 
   <p align="center">
