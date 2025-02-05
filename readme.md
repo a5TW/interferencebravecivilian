@@ -1,5 +1,13 @@
 <!-- don't mess it up -->
 
+<style>body {
+  color: #222;
+  background: #fff;
+}
+a {
+  color: #0033cc;
+}</style>
+
 <br />
 <div align="center">
   <a href="https://github.com/a5tw/interferencebravecivilian">
