@@ -1,12 +1,12 @@
 <!-- don't mess it up -->
 
-<style>body {
+<div class="bg"><style>body {
   color: #222;
   background: #fff;
 }
 a {
   color: #0033cc;
-}</style>
+}</style></div>
 
 <br />
 <div align="center">
