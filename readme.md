@@ -1,5 +1,7 @@
 <!-- don't mess it up -->
 
+<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link>
+
   <h3 align="center">Resources</h3>
 
   <p align="center">
