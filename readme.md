@@ -1,19 +1,5 @@
 <!-- don't mess it up -->
 
-<div class="bg"><style>body {
-  color: #222;
-  background: #fff;
-}
-a {
-  color: #0033cc;
-}</style></div>
-
-<br />
-<div align="center">
-  <a href="https://github.com/a5tw/interferencebravecivilian">
-    <img src="hyperlink-icon.png" alt="Logo" width="96" height="96">
-  </a>
-
   <h3 align="center">Resources</h3>
 
   <p align="center">
