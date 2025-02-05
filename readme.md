@@ -1,12 +1,5 @@
 <!-- don't mess it up -->
 
-@media (prefers-color-scheme:dark) {
-  body {
-    background-color: black;
-    color: white;
-  }
-}
-
   <h3 align="center">Resources</h3>
 
   <p align="center">
