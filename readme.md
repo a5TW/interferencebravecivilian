@@ -1,8 +1,10 @@
 <!-- don't mess it up -->
 
-body {
-  background-color: black;
-  color: white;
+@media (prefers-color-scheme:dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
 }
 
   <h3 align="center">Resources</h3>
