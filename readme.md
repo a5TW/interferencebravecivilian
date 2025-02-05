@@ -11,7 +11,6 @@
     ·
     <a href="https://github.com/a5tw/interferencebravecivilian/issues/new">Suggestions</a>
   </p>
-</div>
 
 ## THE MOST IMPORTANT LINK
 The [redirector](https://pdsb.online/redirector) lets you visit any site by just typing in the url. If you want to visit a site not listed, definitely use this.
